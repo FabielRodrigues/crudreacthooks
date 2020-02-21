@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FabielRodrigues/crud-react-hooks.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/FabielRodrigues/crud-react-hooks.git/static/js/main.cf1ac0e9.chunk.js",
+    "main.js.map": "/FabielRodrigues/crud-react-hooks.git/static/js/main.cf1ac0e9.chunk.js.map",
+    "runtime-main.js": "/FabielRodrigues/crud-react-hooks.git/static/js/runtime-main.6c678528.js",
+    "runtime-main.js.map": "/FabielRodrigues/crud-react-hooks.git/static/js/runtime-main.6c678528.js.map",
+    "static/js/2.547364a1.chunk.js": "/FabielRodrigues/crud-react-hooks.git/static/js/2.547364a1.chunk.js",
+    "static/js/2.547364a1.chunk.js.map": "/FabielRodrigues/crud-react-hooks.git/static/js/2.547364a1.chunk.js.map",
+    "index.html": "/FabielRodrigues/crud-react-hooks.git/index.html",
+    "precache-manifest.32adf203876fd098e1bf95843ea7de0b.js": "/FabielRodrigues/crud-react-hooks.git/precache-manifest.32adf203876fd098e1bf95843ea7de0b.js",
+    "service-worker.js": "/FabielRodrigues/crud-react-hooks.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/FabielRodrigues/crud-react-hooks.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.547364a1.chunk.js.LICENSE.txt": "/FabielRodrigues/crud-react-hooks.git/static/js/2.547364a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c678528.js",
+    "static/js/2.547364a1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cf1ac0e9.chunk.js"
+  ]
+}
